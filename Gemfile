@@ -4,3 +4,4 @@ gem 'github-pages', '>= 148'
 gem 'html-proofer', '>= 3.11.1'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem "nokogiri", ">= 1.10.8"
+gem "rubyzip", ">= 1.3.0"
